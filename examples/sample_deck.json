@@ -1,0 +1,77 @@
+{
+  "brand_handle": "@globalmacro",
+  "slides": [
+    {
+      "category": "MARKET INTELLIGENCE",
+      "tag": "LIQUIDITY CYCLE",
+      "title": "The Global <span class=\"highlight\">Capital Flight</span> & Sovereign Debt Trap",
+      "subtitle": "Central banks are caught between stabilizing sovereign bond markets and suppressing persistent inflation. Here is how institutional capital is repositioning.",
+      "metrics": [
+        {
+          "value": "$315T",
+          "label": "Global Sovereign Debt",
+          "subtext": "All-time high reached in Q3 2026"
+        },
+        {
+          "value": "4.65%",
+          "label": "10-Year Benchmark",
+          "subtext": "Terminal rate repricing threshold"
+        }
+      ]
+    },
+    {
+      "category": "STRUCTURAL BREAKDOWN",
+      "tag": "CONTAGION VECTORS",
+      "title": "Three Vectors Shaping <span class=\"highlight\">Market Liquidity</span>",
+      "subtitle": "The shift from quantitative easing to quantitative tightening has permanently altered liquidity absorption mechanisms across major asset classes.",
+      "points": [
+        {
+          "title": "Treasury Issuance Crowding Out",
+          "description": "Record fiscal deficits require unprecedented bill issuance, absorbing private banking reserves and elevating repo rates."
+        },
+        {
+          "title": "Cross-Border Currency Arbitrage",
+          "description": "Interest rate differentials continue to drive capital away from emerging markets toward dollar-denominated short paper."
+        },
+        {
+          "title": "Collateral Velocity Contraction",
+          "description": "High volatility in benchmark bonds has reduced collateral re-hypothecation, creating localized liquidity freezes."
+        }
+      ]
+    },
+    {
+      "category": "ASSET IMPLICATIONS",
+      "tag": "PORTFOLIO ALLOCATION",
+      "title": "Where Institutional Allocators Are <span class=\"highlight\">Hedged</span>",
+      "subtitle": "Family offices and sovereign funds have shifted their traditional 60/40 playbook to prioritize capital preservation and cash flow predictability.",
+      "metrics": [
+        {
+          "value": "+32%",
+          "label": "Private Credit Allocation",
+          "subtext": "Surge in floating rate direct lending"
+        },
+        {
+          "value": "18 Mo",
+          "label": "Cash Buffer Runway",
+          "subtext": "Average defensive duration profile"
+        }
+      ]
+    },
+    {
+      "category": "EXECUTIVE SUMMARY",
+      "tag": "NEXT STEPS",
+      "title": "The Playbook for the <span class=\"highlight\">New Regime</span>",
+      "subtitle": "Navigating higher structural volatility requires continuous balance sheet vigilance and disciplined asymmetric risk positioning.",
+      "points": [
+        {
+          "title": "Monitor Real Yield Breakouts",
+          "description": "Watch real 10-year yields above 2.2% as a key tripwire for high-multiple equity compression."
+        },
+        {
+          "title": "Prioritize Free Cash Flow Quality",
+          "description": "Capitalize companies with low refinancing needs and organic balance sheet solvency over growth projections."
+        }
+      ]
+    }
+  ]
+}
